@@ -7,6 +7,7 @@
 img{
     width: 10%;
     object-fit: contain;
+    aspect-ratio: 3/2;
     background-color: rgb(65, 100, 100);
     background-blend-mode: soft-light;
     mix-blend-mode: darken;
