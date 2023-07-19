@@ -9,5 +9,6 @@ img{
     object-fit: contain;
     background-color: rgb(65, 100, 100);
     background-blend-mode: soft-light;
+    mix-blend-mode: darken;
 
 }
